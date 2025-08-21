@@ -13,7 +13,7 @@ This guide will help you get the Railway Track Anomaly Detection System running 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/railway-track-anomaly-detection.git
+   git clone https://github.com/prerana-1601/railway-track-anomaly-detection.git
    cd railway-track-anomaly-detection
    ```
 
@@ -203,4 +203,3 @@ Check logs for debugging:
 
 ---
 
-**Note**: This is a demonstration system. For production use, ensure proper security, error handling, and validation. 
