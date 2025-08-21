@@ -113,7 +113,7 @@ Update `config/settings.py` with your cloud broker details.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/railway-track-anomaly-detection.git
+   git clone https://github.com/prerana-1601/railway-track-anomaly-detection.git
    cd railway-track-anomaly-detection
    ```
 
@@ -280,15 +280,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - YOLO team for the excellent object detection framework
 - OpenCV community for computer vision tools
-- MQTT community for reliable messaging protocol
-
-## 📞 Contact
-
-- **Author**: [Your Name]
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [Your GitHub Profile]
+- MQTT community for a reliable messaging protocol
 
 ---
-
-**Note**: This project was developed during an internship and demonstrates advanced computer vision, IoT, and real-time monitoring capabilities. 
